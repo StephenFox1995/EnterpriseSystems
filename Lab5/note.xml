@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="./note.xsl"?>
+<note>
+    <to>Tove</to>
+    <heading>Reminder</heading>
+    <body>Don't forget me this weekend!</body>
+    <from>
+      <person>
+        <name>Alan</name>
+        <address>22 Navan</address>
+      </person>
+    </from>
+    <locations>
+      <location><name>Dame Street</name></location>
+      <location><name>Grafton Street</name></location>
+      <location><name>Pearse Street</name></location>
+    </locations>
+</note>

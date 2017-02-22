@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalogue>
+    <cd>
+        <title>Test Title</title>
+        <artist>Test Artist</artist>
+        <company>Test Company</company>
+        <price>Test Price</price>
+        <year>2017</year>
+    </cd>
+</catalogue>

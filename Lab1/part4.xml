@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<order>
+    <id>1893934</id>
+    <handler>Stephen Fox</handler>
+    <shipto>
+        <name>Neil Pelow</name>
+        <address>22 Navan Road</address>
+        <city>Dublin</city>
+        <country>Ireland</country>
+    </shipto>
+    <items>
+        <item>
+            <id>67344786</id>
+            <title>Toothbrush</title>
+            <quantity>2</quantity>
+            <price>8.65</price>
+        </item>
+    </items>
+</order>

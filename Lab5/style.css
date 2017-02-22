@@ -1,0 +1,16 @@
+html {
+  font-family: 'Monaco'
+}
+
+.note {
+  margin: 20px 20px 20px 20px;
+}
+.heading {
+  padding-left: 20px;
+}
+.body {
+  padding-left: 20px;
+}
+.from {
+  padding-left: 20px;
+}

@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="./project.xsl"?>
+<project>
+  <student>Student</student>
+  <date>Date</date>
+  <objective>
+    <name>Working with XSL</name>
+    <description>
+      XSL is composed of three parts: XSL-FO
+      (Extensible Style sheet Language - Formatting Objects),
+      XSLT (Extensible Style sheet Language Transformations),
+      and XPath. XSL-FO is used to implement page layout and design.
+      XSLT is used to transform XML content into another presentation format.
+      XPath is used to locate information from an XML document
+      and perform operations and calculations upon that content.
+    </description>
+  </objective>
+  <objective>
+    <name>Introducing XSLT style sheets and processors</name>
+    <description>
+      An XSLT style sheet contains instructions for transforming
+      the contents of an XML document into another format. An XSLT style
+      sheet document is itself an XML document, but has an extension .xsl.
+      An XSLT style sheet converts a source document of XML content into
+      a result document containing the markup codes and other instructions
+      for formatting.
+    </description>
+  </objective>
+  <objective>
+    <name>Creating an XSLT style sheet</name>
+    <description>
+      To attach an XML file to the style sheet,
+      insert the processing instruction following the first line
+      in the document. An XSLT style sheet has the general structure
+      of all XML documents.
+    </description>
+  </objective>
+</project>

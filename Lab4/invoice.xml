@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+
+<invoice 
+ xmlns="http://www.dit.ie"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.dit.ie invoice.xsd">
+  <number>2390</number>
+  <date>2010-01-10</date>
+  <total>30.00</total>
+  <issuedby>
+    <name>Stephen Fox</name>
+    <address>22 Ashington Park</address>
+    <bank>
+      <name>Permanent TSB</name>
+      <address>2 Lower Grafton Street</address>
+      <telephone>89089089</telephone>
+    </bank>
+  </issuedby>
+  <items>
+    <item>
+      <name>Small Toy</name>
+      <title>Play with this toy</title>
+      <id>457894578954</id>
+      <quantity>3</quantity>
+      <price>43.9</price>
+    </item>
+    <item>
+      <name>Small Toy</name>
+      <title>Play with this toy</title>
+      <id>457894578954</id>
+      <quantity>3</quantity>
+      <price>43.9</price>
+    </item>
+  </items>
+</invoice>
