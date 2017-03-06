@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="./order.xsl"?>
+<invoice>
+    <invoice_number>102012</invoice_number>
+    <invoice_date>2017-02-21</invoice_date>
+    <invoice_total>275.00</invoice_total>
+    <issued_by>Mark</issued_by>
+    <bill_to>
+        <name>John</name>
+        <address>
+            <number>1</number>
+            <street>Main St</street>
+            <city>Dundalk</city>
+        </address>
+    </bill_to>
+    <item>
+        <item_name>Jsacket</item_name>
+        <price>60.00</price>
+        <quantity>3</quantity>
+    </item>
+    <item>
+        <item_name>Jeans</item_name>
+        <price>30.00</price>
+        <quantity>2</quantity>
+    </item>
+    <item>
+        <item_name>Shoes</item_name>
+        <price>35.00</price>
+        <quantity>1</quantity>
+    </item>
+    <payment_information>No additional info</payment_information>
+</invoice>
