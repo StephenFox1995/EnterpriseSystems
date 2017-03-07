@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="./grades.xsl"?>
+<class>
+    <student>
+        <first-name>Jane</first-name>
+        <last-name>Doe</last-name>
+        <grade>A</grade>
+    </student>
+    <student>
+        <first-name>John</first-name>
+        <last-name>Smith</last-name>
+        <grade>B</grade>
+    </student>
+    <student>
+        <first-name>Harry</first-name>
+        <last-name>Grandson</last-name>
+        <grade>A</grade>
+    </student>
+    <student>
+        <first-name>Lacy</first-name>
+        <last-name>Jones</last-name>
+        <grade>B</grade>
+    </student>
+    <student>
+        <first-name>Ulne</first-name>
+        <last-name>Douglas</last-name>
+        <grade>C</grade>
+    </student>
+    <student>
+        <first-name>Ambrose</first-name>
+        <last-name>Tyler</last-name>
+        <grade>B</grade>
+    </student>
+    <student>
+        <first-name>Roger</first-name>
+        <last-name>Clemens</last-name>
+        <grade>A</grade>
+    </student>
+    <student>
+        <first-name>Monroe</first-name>
+        <last-name>Hamburger</last-name>
+        <grade>A</grade>
+    </student>
+</class>

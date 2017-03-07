@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="./stocks.xsl"?>
+<stocks>
+    <stock>
+        <name>Apple Inc</name>
+        <symbol>APPL</symbol>
+        <price>65.04</price>
+    </stock>
+    <stock>
+        <name>Microsoft Inc</name>
+        <symbol>MSFT</symbol>
+        <price>652.04</price>
+    </stock>
+</stocks>
